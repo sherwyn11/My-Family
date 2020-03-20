@@ -9,6 +9,8 @@ An app to keep track of your family members at anytime of the day to ensure thei
 © 2020 Sherwyn D'souza
 </div>
 
+<br>
+
 # Getting Started
 
 1. Clone the repository
@@ -23,6 +25,14 @@ flutter run
 ```
 
 > Use `--release` for release build
+
+<br>
+
+# Working Demonstration
+
+![](images/working.gif)
+
+<br>
 
 # Flutter Application
 
