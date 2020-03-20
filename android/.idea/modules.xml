@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.6/android/flutter_plugin_android_lifecycle.iml" filepath="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.6/android/flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.24+1/android/google_maps_flutter.iml" filepath="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.24+1/android/google_maps_flutter.iml" />
+      <module fileurl="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location-2.5.4/android/location.iml" filepath="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location-2.5.4/android/location.iml" />
+    </modules>
+  </component>
+</project>
