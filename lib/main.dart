@@ -22,6 +22,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  var newFamList = new List();
   var familyList = new List();
   var updatesList = new List();
   StreamSubscription _locationSubscription;
@@ -89,17 +90,18 @@ class _MyHomePageState extends State<MyHomePage> {
         .getDocuments();
     for (var i in data.documents) {
       if (i.documentID != email) {
+        newFamList.add(i.data['name']);
         updatesList.add(i.data['update']);
       }
     }
-    openUdpateDialog(updatesList, i);
+    openUdpateDialog(newFamList, updatesList, i);
   }
 
-  void openUdpateDialog(updatesList, int i) {
+  void openUdpateDialog(newFam, updatesList, int i) {
     showDialog(
       context: context,
       builder: (BuildContext context) => UserDialog(
-        title: familyList[i - 1],
+        title: newFam[i - 1],
         description: updatesList[i - 1],
         buttonText: "Close",
       ),
