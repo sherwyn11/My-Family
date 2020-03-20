@@ -24,6 +24,10 @@ flutter run
 
 > Use `--release` for release build
 
+# Working Demonstration
+
+![](images/working.mp4)
+
 # Flutter Application
 
 <img align="left" src="images/splash_screen.jpg" width="250"/>
@@ -33,3 +37,5 @@ flutter run
 <img align="left" src="images/my_update.jpg" width="250"/>
 
 <img align="left" src="images/update_other.jpg" width="250"/>
+
+
