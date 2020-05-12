@@ -2,7 +2,7 @@
 
 <div style="text-align:center;">
   
-An app to keep track of your family members at anytime of the day to ensure their safety
+A Flutter Application to keep track of your family members at anytime of the day to ensure their safety
 
 <img src="images/family.png" width="150px" height="150px"/><br>
 
