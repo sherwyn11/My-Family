@@ -17,10 +17,6 @@ A Flutter Application to keep track of your family members at anytime of the day
 
 <br>
 
-# Working Demonstration
-
-![](images/working.gif)
-
 # Getting Started
 
 1. Clone the repository
