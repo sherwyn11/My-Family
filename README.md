@@ -6,10 +6,19 @@ A Flutter Application to keep track of your family members at anytime of the day
 
 <img src="images/family.png" width="150px" height="150px"/><br>
 
-© 2020 Sherwyn D'souza
 </div>
 
 <br>
+
+# Working Demonstration
+
+![](images/working.gif)
+
+<br>
+
+# Working Demonstration
+
+![](images/working.gif)
 
 # Getting Started
 
@@ -18,7 +27,13 @@ A Flutter Application to keep track of your family members at anytime of the day
 ```bash
 git clone <this_repo_url>
 ```
-2. From the root folder, `My-Family`, run the Flutter application
+2. From the root folder, `My-Family`, get the required packages
+
+```bash
+cd My-Family
+flutter pub get
+```
+3. Run the Flutter application
 
 ```bash
 flutter run
@@ -26,11 +41,6 @@ flutter run
 
 > Use `--release` for release build
 
-<br>
-
-# Working Demonstration
-
-![](images/working.gif)
 
 <br>
 
@@ -45,3 +55,4 @@ flutter run
 <img align="left" src="images/update_other.jpg" width="250"/>
 
 
+© 2020 Sherwyn D'souza
