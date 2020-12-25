@@ -7,8 +7,6 @@ A Flutter Application to keep track of your family members at anytime of the day
 <img src="images/family.png" width="150px" height="150px"/><br>
 
 </div>
-© 2020 Sherwyn D'souza
-
 <br>
 
 # Working Demonstration
@@ -43,6 +41,8 @@ flutter run
 
 # Flutter Application
 
+<div>
+
 <img align="left" src="images/splash_screen.jpg" width="250"/>
 
 <img align="left" src="images/tracking.jpg" width="250"/>
@@ -50,3 +50,7 @@ flutter run
 <img align="left" src="images/my_update.jpg" width="250"/>
 
 <img align="left" src="images/update_other.jpg" width="250"/>
+
+</div>
+
+© 2020 Sherwyn D'souza
