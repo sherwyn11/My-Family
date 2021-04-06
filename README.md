@@ -23,7 +23,7 @@ A Flutter Application to keep track of your family members at anytime of the day
 ```bash
 git clone <this_repo_url>
 ```
-2. From the root folder, `My-Family`, get the required packages
+2. From the root folder, `My-Family` , get the required packages
 
 ```bash
 cd My-Family
